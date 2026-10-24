@@ -21,7 +21,7 @@ También se realizaron pruebas para verificar el funcionamiento de los formulari
 - PHP: Lenguaje utilizado para implementar la lógica del sistema.
 - HTML5: Utilizado para estructurar los formularios y las páginas.
 - Bootstrap: Utilizado para el diseño y la presentación visual de los formularios.
-- SQLite: Base de datos utilizada durante el desarrollo del proyecto.
+- MySQL: Sistema gestor de bases de datos utilizado para almacenar la información de los usuarios mediante WAMP.
 - Visual Studio Code: Editor utilizado para desarrollar y organizar el código.
 - Git y GitHub: Herramientas utilizadas para el control de versiones y almacenamiento del proyecto.
 
